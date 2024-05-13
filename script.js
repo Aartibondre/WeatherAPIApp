@@ -1,4 +1,4 @@
-const apiKey = `b775615388f1233cd028e4482435d2cb`;
+const apiKey = `Enter Your WeatherAPI Key here`;
 // FOR API KEY
 // Go to the link-  https://home.openweathermap.org/api_keys
 // Sign in
